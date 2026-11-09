@@ -1,8 +1,7 @@
 # 🚀 BotLedger: Event-Driven WhatsApp Billing Engine
 
-### 📸 LOGO
-![BotLedger Logo](pics/creenshot 2026-11-09 222729.png)
-![Unpack.ai Dashboard](screenshots/assignmentbreakdown.png)
+# ![BotLedger Logo](pics/logo1.png)
+
 
 BotLedger is an enterprise-grade backend microservice built to bridge the Meta WhatsApp Cloud API with the Paystack payment gateway. 
 
