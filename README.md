@@ -57,7 +57,7 @@ You should see the `orders`, `processed_webhooks`, and `admin_profiles` tables s
 
 ## 🗺️ Roadmap & Build Order
 
-- [x] **Step 1:** Skeleton, Infrastructure, and Flyway Migrations.
+- [ ] **Step 1:** Skeleton, Infrastructure, and Flyway Migrations.
 - [ ] **Step 2:** Orders Domain (Entities and Status Flow).
 - [ ] **Step 3:** Paystack Webhook Handler (HMAC-SHA512 Security & Idempotency).
 - [ ] **Step 4:** RabbitMQ Queue and Async PDFBox Worker.
